@@ -23,15 +23,17 @@ Después de este curso serás capaz de:
 ## Contenido  
 El repositorio incluye:  
 - **7 lecciones/unidades de gramática en MarkDown**  
-  - [Unidad 1](/1.teoria-gramatica/U1.hae.md)  
-  - [Unidad 2](/1.teoria-gramatica/U2.de_donde_eres.md)
-  - [Unidad 3](/1.teoria-gramatica/U3.frases_utiles.md)
-  - [Unidad 4](/1.teoria-gramatica/U4.colores.md)
-  - [Unidad 5](/1.teoria-gramatica/U5.numeros.md)
-  - [Unidad 6](/1.teoria-gramatica/U6.de_viaje.md)
-  - [Unidad 7](/1.teoria-gramatica/U7.restaurante.md)
+  - [Unidad 1](/1.teoria-gramatica/U1_hae.md)  
+  - [Unidad 2](/1.teoria-gramatica/U2_de_donde_eres.md)
+  - [Unidad 3](/1.teoria-gramatica/U3_frases_utiles.md)
+  - [Unidad 4](/1.teoria-gramatica/U4_colores.md)
+  - [Unidad 5](/1.teoria-gramatica/U5_numeros.md)
+  - [Unidad 6](/1.teoria-gramatica/U6_de_viaje.md)
+  - [Unidad 7](/1.teoria-gramatica/U7_restaurante.md)
     
-- **[Ejercicios prácticos](/ejercicios/)**
+- **[Ejercicios]**
+  - [Ejercicios 1 (PDF)](/2.ejercicios/ejercicios_1.pdf)
+  - [Ejercicios 2 (PDF)](/2.ejercicios/ejercicios_2.pdf)
 
 - **[Presentación interactiva de casos y declinaciones](/3.casos_declinaciones/index.html)**  
 - **[Mini guía de viajes](/4.guia_de_viajes)**  
