@@ -31,10 +31,12 @@ El repositorio incluye:
   - [Unidad 6](/1.teoria-gramatica/U6_de_viaje.md)
   - [Unidad 7](/1.teoria-gramatica/U7_restaurante.md)
     
-- **[Ejercicios]**
+- **Ejercicios**
   - [Ejercicios 1 (PDF)](/2.ejercicios/ejercicios_1.pdf)
   - [Ejercicios 2 (PDF)](/2.ejercicios/ejercicios_2.pdf)
 
-- **[Presentación interactiva de casos y declinaciones](/3.casos_declinaciones/index.html)**  
-- **[Mini guía de viajes](/4.guia_de_viajes)**  
+- **[Presentación interactiva de casos y declinaciones](/3.casos_declinaciones/index.html)**
+  
+- **[Mini guía de viajes](/4.guia_de_viajes/dist/GUIA_VIAJES.epub)**
+  
 - **[Historia interactiva](/5.historia_interactiva/PERDIDO_EN_ISLANDIA.html)**  
