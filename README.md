@@ -23,13 +23,13 @@ Después de este curso serás capaz de:
 ## Contenido  
 El repositorio incluye:  
 - **7 lecciones/unidades de gramática en MarkDown**  
-  - [Unidad 1](1.teoria-gramatica/U1.hae.md)  
-  - [Unidad 2](1.teoria-gramatica/U2.de_donde_eres.md)
-  - [Unidad 3](1.teoria-gramatica/U3.frases_utiles.md)
-  - [Unidad 4](1.teoria-gramatica/U4.colores.md)
-  - [Unidad 5](1.teoria-gramatica/U5.numeros.md)
-  - [Unidad 6](1.teoria-gramatica/U6.de_viaje.md)
-  - [Unidad 7](1.teoria-gramatica/U7.restaurante.md)
+  - [Unidad 1](/1.teoria-gramatica/U1.hae.md)  
+  - [Unidad 2](/1.teoria-gramatica/U2.de_donde_eres.md)
+  - [Unidad 3](/1.teoria-gramatica/U3.frases_utiles.md)
+  - [Unidad 4](/1.teoria-gramatica/U4.colores.md)
+  - [Unidad 5](/1.teoria-gramatica/U5.numeros.md)
+  - [Unidad 6](/1.teoria-gramatica/U6.de_viaje.md)
+  - [Unidad 7](/1.teoria-gramatica/U7.restaurante.md)
     
 - **[Ejercicios prácticos](/ejercicios/)**
 
