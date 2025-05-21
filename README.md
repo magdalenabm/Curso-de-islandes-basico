@@ -26,4 +26,4 @@ El repositorio incluye:
 - **Ejercicios prácticos en PDF**  
 - **Una presentación de las declinaciones y casos del islandés hecha con reveal.js**  
 - **Una mini guía de viajes**  
-- **Una historia interactiva de las aventuras de un español en Islandia**  
+- **[Historia interactiva](/historia/index.html)**  
